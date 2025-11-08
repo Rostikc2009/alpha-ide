@@ -1,4 +1,4 @@
-# alpha-ide
+# alphaIde
 # byhinjuomk
 ![](https://logos-world.net/wp-content/uploads/2020/11/GitHub-Symbol.png)
 ###**hah** **alpha**
